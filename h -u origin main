@@ -1,0 +1,11 @@
+[33mcommit 52635b50935a97adebe7cb6e637b4d7713e836b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Diana Marcela Culma <diana9305dm@gmail.com>
+Date:   Wed Oct 28 20:50:10 2026 -0500
+
+    Se crea el archico readme.md
+
+[33mcommit 49c3089fc0aa9bf1ed8fd528d667b89cd4f84a7c[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Diana Marcela Culma <diana9305dm@gmail.com>
+Date:   Wed Oct 28 19:57:25 2026 -0500
+
+    Módulo de inventario del supermercado (CRUD y plantillas)
